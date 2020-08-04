@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 ![:name](https://count.getloli.com/get/@:lv2020)
  <!-- waka-box start -->
- 📊 每周工作报告
- <!-- waka-box end -->
+📊 Weekly development breakdown
+```text
+Python 🕓 15 hrs 25 mins █████████████████████100.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
