@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![:name](https://count.getloli.com/get/@:lv2020)
+ <!-- waka-box start -->
+ 📊 每周工作报告
+ <!-- waka-box end -->
