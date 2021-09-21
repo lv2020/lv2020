@@ -18,8 +18,8 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-TeX  🕓 35 mins ███████████████████▋░ 93.9%
-Text 🕓 2 mins  █▎░░░░░░░░░░░░░░░░░░░  6.1%
+TeX  🕓 35 mins ████████████████▏░░░░ 77.4%
+Text 🕓 10 mins ████▊░░░░░░░░░░░░░░░░ 22.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
