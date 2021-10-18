@@ -18,7 +18,8 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Singularity 🕓 19 mins █████████████████████100.0%
+Singularity 🕓 52 mins █████████████▏░░░░░░░ 62.9%
+C           🕓 30 mins ███████▊░░░░░░░░░░░░░ 37.1%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
