@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ```text
 Python 🕓 1 hr 2 mins ████████████████████▋ 98.7%
 Bash   🕓 0 secs      ▎░░░░░░░░░░░░░░░░░░░░  1.3%
-JSON   🕓 0 secs      ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
