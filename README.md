@@ -18,7 +18,8 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-JSON 🕓 0 secs ░░░░░░░░░░░░░░░░░░░░░  0.0%
+Python 🕓 2 hrs 6 mins █████████████████████100.0%
+JSON   🕓 0 secs       ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
