@@ -18,11 +18,7 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-C           🕓 42 mins ████████████████░░░░░ 76.8%
-Singularity 🕓 11 mins ████▍░░░░░░░░░░░░░░░░ 20.9%
-C++         🕓 0 secs  ▎░░░░░░░░░░░░░░░░░░░░  1.8%
-Other       🕓 0 secs  ░░░░░░░░░░░░░░░░░░░░░  0.6%
-TeX         🕓 0 secs  ░░░░░░░░░░░░░░░░░░░░░  0.1%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
