@@ -18,9 +18,7 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Assembly 🕓 53 mins ██████████████▌░░░░░░ 69.3%
-C        🕓 21 mins █████▊░░░░░░░░░░░░░░░ 27.8%
-Text     🕓 2 mins  ▌░░░░░░░░░░░░░░░░░░░░  2.9%
+Text 🕓 2 mins █████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
