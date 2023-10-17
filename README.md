@@ -18,8 +18,7 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-TSQL           🕓 4 mins ███████████████████░░ 90.5%
-ActionScript 3 🕓 0 secs █▉░░░░░░░░░░░░░░░░░░░  9.5%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
